@@ -2,6 +2,12 @@
 title: "Postgres Profile"
 ---
 
+## Overview of dbt-postgres
+**Maintained by:** core dbt maintainers    
+**Author:** dbt Labs    
+**Source:** https://github.com/dbt-labs/dbt (alongside `dbt-core`)    
+**dbt Cloud:** Supported
+
 ## Profile Configuration
 
 Postgres targets should be set up using the following configuration in your `profiles.yml` file.

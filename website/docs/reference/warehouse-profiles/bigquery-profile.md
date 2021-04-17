@@ -2,6 +2,14 @@
 title: "BigQuery Profile"
 ---
 
+## Overview of dbt-bigquery
+**Maintained by:** core dbt maintainers    
+**Author:** dbt Labs    
+**Source:** https://github.com/dbt-labs/dbt-bigquery    
+**dbt Cloud:** Supported
+
+![dbt-bigquery stars](https://img.shields.io/github/stars/dbt-labs/dbt-bigquery?style=for-the-badge)
+
 ## Authentication Methods
 
 BigQuery targets can be specified using one of four methods:

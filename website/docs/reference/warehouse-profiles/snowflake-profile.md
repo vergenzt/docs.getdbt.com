@@ -2,6 +2,14 @@
 title: "Snowflake Profile"
 ---
 
+## Overview of dbt-snowflake
+**Maintained by:** core dbt maintainers    
+**Author:** dbt Labs    
+**Source:** https://github.com/dbt-labs/dbt-snowflake    
+**dbt Cloud:** Supported
+
+![dbt-redshift stars](https://img.shields.io/github/stars/dbt-labs/dbt-snowflake?style=for-the-badge)
+
 ## Authentication Methods
 
 ### User / Password authentication

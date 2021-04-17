@@ -2,6 +2,14 @@
 title: "Redshift Profile"
 ---
 
+## Overview of dbt-redshift
+**Maintained by:** core dbt maintainers    
+**Author:** dbt Labs    
+**Source:** https://github.com/dbt-labs/dbt-redshift    
+**dbt Cloud:** Supported
+
+![dbt-redshift stars](https://img.shields.io/github/stars/dbt-labs/dbt-redshift?style=for-the-badge)
+
 ## Authentication Methods
 
 ### Password-based authentication

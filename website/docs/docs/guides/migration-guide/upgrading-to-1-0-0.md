@@ -20,3 +20,5 @@ dbt v1.0.0-b1 is currently available in beta. If you have questions or encounter
 ## New and changed documentation
 
 - [Tests](building-a-dbt-project/tests), [test selection](test-selection-examples), [selection methods](node-selection/methods): Update `test_type:` selection method. Remove references to `--schema` and `--data` flags.
+- [Install](install/overview) and reflect adapter-specific installations
+- [Redshift](redshift-profile), [Snowflake](snowflake-profile), and [BigQuery](bigquery-profile) profiles reflect new locations of these plugins in their own repositories
